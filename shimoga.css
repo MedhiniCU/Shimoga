@@ -1,0 +1,18 @@
+body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        input {
+            padding: 10px;
+            margin-top: 20px;
+            width: 60%;
+        }
+        button {
+            padding: 10px 20px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+        #placeContainer {
+            margin-top: 20px;
+        }
